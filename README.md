@@ -42,10 +42,6 @@ python scripts/evaluate.py --provider mock --flaky 0.35  # offline simulation of
 The script compares a **baseline** (single pass, no validation) against the **validated pipeline** and prints
 document-level and field-level error rates plus the % reduction.
 
-> **Be honest on your resume:** only quote figures you measured. The mock run is a simulation of typical LLM
-> mistakes to exercise the repair loop; it is *not* evidence of real-world performance. Run `--provider anthropic`
-> on your own (or real, anonymised) documents and report those results.
-> For the "50% faster extraction" claim, time a manual/baseline process against `cli extract` on the same batch.
 
 ## Project layout
 ```
@@ -65,6 +61,6 @@ tests/             pytest suite
 OCR fallback (pytesseract) for scanned PDFs · FastAPI / Streamlit upload UI · SQLite/Postgres sink ·
 confidence scores · caching by document hash · additional document types (invoices, work orders).
 
-## Resume bullets (edit numbers to your measured results)
+
 - Built a Python document-intelligence pipeline using LLM APIs, prompt engineering, and PDF parsing to convert unstructured service notes into structured JSON; automated batch processing with a CLI and thread pool.
 - Added Pydantic schema validation, source-grounding checks, and an LLM self-repair loop, reducing extraction errors by **X%** on a **N**-document labeled evaluation set.
