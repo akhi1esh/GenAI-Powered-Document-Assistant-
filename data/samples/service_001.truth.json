@@ -1,0 +1,31 @@
+{
+  "report_id": "SR-1001",
+  "service_date": "2025-03-19",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-7955",
+  "asset_type": "Generator",
+  "technician": "L. Novak",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Replaced filter",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-78",
+      "quantity": 1
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-56",
+      "quantity": 3
+    }
+  ],
+  "labor_hours": 1,
+  "total_cost": 286.26,
+  "severity": "low",
+  "follow_up_required": true,
+  "follow_up_date": "2025-06-10"
+}

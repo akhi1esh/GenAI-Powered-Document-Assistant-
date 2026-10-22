@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1021",
+  "service_date": "2025-02-23",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-5237",
+  "asset_type": "Chiller",
+  "technician": "M. Alvarez",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Recalibrated pressure sensor"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-44",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 2142.02,
+  "severity": "medium",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

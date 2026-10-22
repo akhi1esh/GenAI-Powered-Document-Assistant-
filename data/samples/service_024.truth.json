@@ -1,0 +1,26 @@
+{
+  "report_id": "SR-1024",
+  "service_date": "2025-01-08",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-9110",
+  "asset_type": "Compressor",
+  "technician": "J. Okafor",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced filter",
+    "Tightened mounting bolts",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-80",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 1667.25,
+  "severity": "low",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

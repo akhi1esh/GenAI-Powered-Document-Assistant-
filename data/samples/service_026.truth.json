@@ -1,0 +1,32 @@
+{
+  "report_id": "SR-1026",
+  "service_date": "2025-01-24",
+  "customer_name": "Bluefin Foods",
+  "asset_id": "A-1017",
+  "asset_type": "Generator",
+  "technician": "J. Okafor",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced capacitor",
+    "Replaced filter",
+    "Recalibrated pressure sensor",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "capacitor",
+      "part_number": "CAP-44",
+      "quantity": 2
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-10",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 1.5,
+  "total_cost": 638.52,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-04-03"
+}

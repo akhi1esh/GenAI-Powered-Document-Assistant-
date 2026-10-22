@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1029",
+  "service_date": "2025-11-26",
+  "customer_name": "Greenfield Pharma",
+  "asset_id": "A-1308",
+  "asset_type": "Boiler",
+  "technician": "L. Novak",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Recalibrated pressure sensor"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-13",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 1449.29,
+  "severity": "low",
+  "follow_up_required": true,
+  "follow_up_date": "2026-02-21"
+}

@@ -1,0 +1,31 @@
+{
+  "report_id": "SR-1025",
+  "service_date": "2025-04-28",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-7240",
+  "asset_type": "Chiller",
+  "technician": "S. Chen",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced capacitor",
+    "Replaced filter",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "capacitor",
+      "part_number": "CAP-61",
+      "quantity": 2
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-16",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 321.07,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-06-04"
+}

@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1011",
+  "service_date": "2025-06-25",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-5278",
+  "asset_type": "Compressor",
+  "technician": "S. Chen",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced bearing",
+    "Replaced filter",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-30",
+      "quantity": 3
+    },
+    {
+      "name": "bearing",
+      "part_number": "BRG-12",
+      "quantity": 1
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-77",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 2174.71,
+  "severity": "high",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

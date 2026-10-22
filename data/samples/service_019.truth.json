@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1019",
+  "service_date": "2025-03-04",
+  "customer_name": "Greenfield Pharma",
+  "asset_id": "A-3667",
+  "asset_type": "Generator",
+  "technician": "M. Alvarez",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-28",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 2.5,
+  "total_cost": 344.02,
+  "severity": "medium",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

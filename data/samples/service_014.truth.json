@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1014",
+  "service_date": "2025-09-02",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-3081",
+  "asset_type": "Chiller",
+  "technician": "M. Alvarez",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced bearing",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "bearing",
+      "part_number": "BRG-91",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 1.5,
+  "total_cost": 1845.02,
+  "severity": "critical",
+  "follow_up_required": true,
+  "follow_up_date": "2025-10-12"
+}

@@ -1,0 +1,32 @@
+{
+  "report_id": "SR-1008",
+  "service_date": "2025-04-04",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-7521",
+  "asset_type": "Boiler",
+  "technician": "J. Okafor",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced drive belt",
+    "Tightened mounting bolts",
+    "Recalibrated pressure sensor"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-28",
+      "quantity": 2
+    },
+    {
+      "name": "drive belt",
+      "part_number": "BLT-78",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 2.5,
+  "total_cost": 2018.94,
+  "severity": "low",
+  "follow_up_required": true,
+  "follow_up_date": "2025-07-30"
+}

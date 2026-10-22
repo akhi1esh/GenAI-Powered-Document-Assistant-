@@ -1,0 +1,32 @@
+{
+  "report_id": "SR-1020",
+  "service_date": "2025-09-21",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-5840",
+  "asset_type": "Conveyor Motor",
+  "technician": "R. Patel",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced bearing",
+    "Cleaned condenser coils",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-35",
+      "quantity": 2
+    },
+    {
+      "name": "bearing",
+      "part_number": "BRG-50",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 1034.74,
+  "severity": "critical",
+  "follow_up_required": true,
+  "follow_up_date": "2025-10-23"
+}

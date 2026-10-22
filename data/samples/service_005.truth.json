@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1005",
+  "service_date": "2025-08-22",
+  "customer_name": "Bluefin Foods",
+  "asset_id": "A-8301",
+  "asset_type": "Boiler",
+  "technician": "J. Okafor",
+  "issue_description": "oil leak near the base",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-44",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 2483.57,
+  "severity": "high",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

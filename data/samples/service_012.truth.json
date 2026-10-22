@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1012",
+  "service_date": "2025-09-30",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-5577",
+  "asset_type": "Chiller",
+  "technician": "S. Chen",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced filter",
+    "Replaced pressure valve",
+    "Replaced bearing",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-38",
+      "quantity": 3
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-34",
+      "quantity": 1
+    },
+    {
+      "name": "bearing",
+      "part_number": "BRG-61",
+      "quantity": 3
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 2475.26,
+  "severity": "critical",
+  "follow_up_required": true,
+  "follow_up_date": "2025-11-02"
+}

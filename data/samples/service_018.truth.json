@@ -1,0 +1,38 @@
+{
+  "report_id": "SR-1018",
+  "service_date": "2025-11-07",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-4942",
+  "asset_type": "Boiler",
+  "technician": "R. Patel",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced capacitor",
+    "Replaced pressure valve",
+    "Replaced filter",
+    "Tightened mounting bolts",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "capacitor",
+      "part_number": "CAP-75",
+      "quantity": 3
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-71",
+      "quantity": 3
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-41",
+      "quantity": 3
+    }
+  ],
+  "labor_hours": 1,
+  "total_cost": 1172.24,
+  "severity": "medium",
+  "follow_up_required": true,
+  "follow_up_date": "2026-01-26"
+}

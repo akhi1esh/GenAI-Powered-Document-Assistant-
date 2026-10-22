@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1015",
+  "service_date": "2025-11-10",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-4457",
+  "asset_type": "Chiller",
+  "technician": "S. Chen",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced bearing",
+    "Replaced pressure valve",
+    "Replaced drive belt",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "bearing",
+      "part_number": "BRG-80",
+      "quantity": 3
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-26",
+      "quantity": 1
+    },
+    {
+      "name": "drive belt",
+      "part_number": "BLT-11",
+      "quantity": 3
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 583.64,
+  "severity": "critical",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

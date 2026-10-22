@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1023",
+  "service_date": "2025-05-18",
+  "customer_name": "Bluefin Foods",
+  "asset_id": "A-3914",
+  "asset_type": "Conveyor Motor",
+  "technician": "S. Chen",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced capacitor",
+    "Replaced drive belt",
+    "Replaced pressure valve",
+    "Recalibrated pressure sensor"
+  ],
+  "parts_replaced": [
+    {
+      "name": "capacitor",
+      "part_number": "CAP-40",
+      "quantity": 1
+    },
+    {
+      "name": "drive belt",
+      "part_number": "BLT-30",
+      "quantity": 2
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-16",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 810.11,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-07-13"
+}

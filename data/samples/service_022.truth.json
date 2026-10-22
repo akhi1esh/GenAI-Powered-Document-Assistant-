@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1022",
+  "service_date": "2025-09-11",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-2993",
+  "asset_type": "Boiler",
+  "technician": "R. Patel",
+  "issue_description": "oil leak near the base",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced drive belt",
+    "Replaced capacitor",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-17",
+      "quantity": 3
+    },
+    {
+      "name": "drive belt",
+      "part_number": "BLT-33",
+      "quantity": 2
+    },
+    {
+      "name": "capacitor",
+      "part_number": "CAP-19",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 278.56,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-11-08"
+}

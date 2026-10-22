@@ -1,0 +1,32 @@
+{
+  "report_id": "SR-1013",
+  "service_date": "2025-06-26",
+  "customer_name": "Greenfield Pharma",
+  "asset_id": "A-6636",
+  "asset_type": "Boiler",
+  "technician": "R. Patel",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced filter",
+    "Tightened mounting bolts",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-20",
+      "quantity": 1
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-23",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 2.5,
+  "total_cost": 2120.24,
+  "severity": "medium",
+  "follow_up_required": true,
+  "follow_up_date": "2025-10-12"
+}

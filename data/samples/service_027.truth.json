@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1027",
+  "service_date": "2025-09-15",
+  "customer_name": "Apex Dairy Ltd",
+  "asset_id": "A-9670",
+  "asset_type": "Generator",
+  "technician": "L. Novak",
+  "issue_description": "unusual vibration at start-up",
+  "actions_taken": [
+    "Replaced capacitor",
+    "Replaced filter",
+    "Replaced pressure valve",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "capacitor",
+      "part_number": "CAP-10",
+      "quantity": 1
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-43",
+      "quantity": 1
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-28",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 674.09,
+  "severity": "low",
+  "follow_up_required": true,
+  "follow_up_date": "2026-01-03"
+}

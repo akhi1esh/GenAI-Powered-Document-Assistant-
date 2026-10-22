@@ -1,0 +1,5 @@
+pydantic>=2.5
+pypdf>=4.0
+anthropic>=0.40
+reportlab>=4.0   # only for generating sample PDFs
+pytest>=8.0

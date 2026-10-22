@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1002",
+  "service_date": "2025-02-01",
+  "customer_name": "Bluefin Foods",
+  "asset_id": "A-4078",
+  "asset_type": "Boiler",
+  "technician": "R. Patel",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced filter",
+    "Replaced bearing",
+    "Replaced drive belt",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-38",
+      "quantity": 1
+    },
+    {
+      "name": "bearing",
+      "part_number": "BRG-81",
+      "quantity": 1
+    },
+    {
+      "name": "drive belt",
+      "part_number": "BLT-47",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 550.13,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-05-29"
+}

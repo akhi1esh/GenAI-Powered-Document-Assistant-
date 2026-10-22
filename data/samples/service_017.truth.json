@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1017",
+  "service_date": "2025-08-31",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-1456",
+  "asset_type": "Chiller",
+  "technician": "J. Okafor",
+  "issue_description": "oil leak near the base",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Replaced filter",
+    "Replaced capacitor",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-97",
+      "quantity": 3
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-77",
+      "quantity": 3
+    },
+    {
+      "name": "capacitor",
+      "part_number": "CAP-71",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 1328.36,
+  "severity": "medium",
+  "follow_up_required": true,
+  "follow_up_date": "2025-10-12"
+}

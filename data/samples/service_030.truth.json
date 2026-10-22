@@ -1,0 +1,32 @@
+{
+  "report_id": "SR-1030",
+  "service_date": "2025-01-02",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-8542",
+  "asset_type": "Generator",
+  "technician": "J. Okafor",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Replaced filter",
+    "Recalibrated pressure sensor",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-94",
+      "quantity": 3
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-18",
+      "quantity": 3
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 669.15,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-02-27"
+}

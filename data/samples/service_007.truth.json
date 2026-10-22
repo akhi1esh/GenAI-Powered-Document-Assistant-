@@ -1,0 +1,26 @@
+{
+  "report_id": "SR-1007",
+  "service_date": "2025-05-23",
+  "customer_name": "Apex Dairy Ltd",
+  "asset_id": "A-3478",
+  "asset_type": "Boiler",
+  "technician": "M. Alvarez",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced bearing",
+    "Recalibrated pressure sensor",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "bearing",
+      "part_number": "BRG-80",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 1.5,
+  "total_cost": 479.19,
+  "severity": "critical",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

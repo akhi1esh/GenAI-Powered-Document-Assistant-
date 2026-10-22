@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1009",
+  "service_date": "2025-02-01",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-3478",
+  "asset_type": "Conveyor Motor",
+  "technician": "R. Patel",
+  "issue_description": "oil leak near the base",
+  "actions_taken": [
+    "Replaced drive belt",
+    "Cleaned condenser coils"
+  ],
+  "parts_replaced": [
+    {
+      "name": "drive belt",
+      "part_number": "BLT-36",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 363.66,
+  "severity": "high",
+  "follow_up_required": false,
+  "follow_up_date": null
+}

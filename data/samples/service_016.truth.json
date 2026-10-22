@@ -1,0 +1,38 @@
+{
+  "report_id": "SR-1016",
+  "service_date": "2025-05-04",
+  "customer_name": "Summit Bakeries",
+  "asset_id": "A-4000",
+  "asset_type": "Boiler",
+  "technician": "R. Patel",
+  "issue_description": "overheating during peak load",
+  "actions_taken": [
+    "Replaced pressure valve",
+    "Replaced filter",
+    "Replaced bearing",
+    "Tightened mounting bolts",
+    "Recalibrated pressure sensor"
+  ],
+  "parts_replaced": [
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-63",
+      "quantity": 1
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-17",
+      "quantity": 3
+    },
+    {
+      "name": "bearing",
+      "part_number": "BRG-55",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 2197.28,
+  "severity": "medium",
+  "follow_up_required": true,
+  "follow_up_date": "2025-06-05"
+}

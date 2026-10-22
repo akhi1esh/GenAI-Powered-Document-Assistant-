@@ -1,0 +1,26 @@
+{
+  "report_id": "SR-1010",
+  "service_date": "2025-02-06",
+  "customer_name": "Harbor Logistics",
+  "asset_id": "A-8870",
+  "asset_type": "Compressor",
+  "technician": "S. Chen",
+  "issue_description": "loud rattling and intermittent shutdown",
+  "actions_taken": [
+    "Replaced filter",
+    "Recalibrated pressure sensor",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-58",
+      "quantity": 1
+    }
+  ],
+  "labor_hours": 2.5,
+  "total_cost": 2140.47,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-03-22"
+}

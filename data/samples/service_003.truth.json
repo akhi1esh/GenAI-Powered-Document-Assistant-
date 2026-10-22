@@ -1,0 +1,26 @@
+{
+  "report_id": "SR-1003",
+  "service_date": "2025-10-16",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-4999",
+  "asset_type": "Compressor",
+  "technician": "L. Novak",
+  "issue_description": "oil leak near the base",
+  "actions_taken": [
+    "Replaced filter",
+    "Recalibrated pressure sensor",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-36",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 4,
+  "total_cost": 2010.62,
+  "severity": "critical",
+  "follow_up_required": true,
+  "follow_up_date": "2025-12-16"
+}

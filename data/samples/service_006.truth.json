@@ -1,0 +1,25 @@
+{
+  "report_id": "SR-1006",
+  "service_date": "2025-07-01",
+  "customer_name": "Northwind Cold Storage",
+  "asset_id": "A-9134",
+  "asset_type": "Conveyor Motor",
+  "technician": "M. Alvarez",
+  "issue_description": "unusual vibration at start-up",
+  "actions_taken": [
+    "Replaced filter",
+    "Tightened mounting bolts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "filter",
+      "part_number": "FLT-24",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 6,
+  "total_cost": 1067.0,
+  "severity": "high",
+  "follow_up_required": true,
+  "follow_up_date": "2025-08-31"
+}

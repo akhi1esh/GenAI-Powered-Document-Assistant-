@@ -1,0 +1,37 @@
+{
+  "report_id": "SR-1004",
+  "service_date": "2025-06-25",
+  "customer_name": "Bluefin Foods",
+  "asset_id": "A-6140",
+  "asset_type": "Conveyor Motor",
+  "technician": "S. Chen",
+  "issue_description": "pressure dropping below spec",
+  "actions_taken": [
+    "Replaced bearing",
+    "Replaced pressure valve",
+    "Replaced filter",
+    "Lubricated moving parts"
+  ],
+  "parts_replaced": [
+    {
+      "name": "bearing",
+      "part_number": "BRG-19",
+      "quantity": 1
+    },
+    {
+      "name": "pressure valve",
+      "part_number": "VLV-75",
+      "quantity": 2
+    },
+    {
+      "name": "filter",
+      "part_number": "FLT-31",
+      "quantity": 2
+    }
+  ],
+  "labor_hours": 3.5,
+  "total_cost": 304.74,
+  "severity": "critical",
+  "follow_up_required": true,
+  "follow_up_date": "2025-10-18"
+}
